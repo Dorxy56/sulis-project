@@ -1,0 +1,317 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.30f1 (62b05ba0686a) revision 6467675'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'hu' Physical Memory: 32638 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\UnityprojektHUB\6000.0.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitHubUnity/sulis-project/Suli
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50022
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/GitHubUnity/sulis-project/Suli
+D:/GitHubUnity/sulis-project/Suli
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [1836]  Target information:
+
+Player connection [1836]  * "[IP] 192.168.0.45 [Port] 0 [Flags] 2 [Guid] 865077909 [EditorId] 865077909 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-B6KAA4L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [1836] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [1836] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 146.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.30f1 (62b05ba0686a)
+[Subsystems] Discovering subsystems at path D:/UnityprojektHUB/6000.0.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHubUnity/sulis-project/Suli/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6650 XT (ID=0x73ef)
+    Vendor:   ATI
+    VRAM:     8121 MB
+    Driver:   32.0.12033.1030
+Initialize mono
+Mono path[0] = 'D:/UnityprojektHUB/6000.0.30f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UnityprojektHUB/6000.0.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/UnityprojektHUB/6000.0.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56060
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UnityprojektHUB/6000.0.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/UnityprojektHUB/6000.0.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.762874 seconds.
+- Loaded All Assemblies, in 15.671 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.654 seconds
+Domain Reload Profiling: 16325ms
+	BeginReloadAssembly (11935ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (797ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (825ms)
+	LoadAllAssembliesAndSetupDomain (2096ms)
+		LoadAssemblies (11936ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2090ms)
+			TypeCache.Refresh (2088ms)
+				TypeCache.ScanAssembly (1622ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (655ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (583ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (313ms)
+			ProcessInitializeOnLoadMethodAttributes (129ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.001 seconds
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Suli
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.554 seconds
+Domain Reload Profiling: 7555ms
+	BeginReloadAssembly (244ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (5653ms)
+		LoadAssemblies (4644ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1174ms)
+			TypeCache.Refresh (1069ms)
+				TypeCache.ScanAssembly (983ms)
+			BuildScriptInfoCaches (88ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1554ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1204ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (142ms)
+			ProcessInitializeOnLoadAttributes (658ms)
+			ProcessInitializeOnLoadMethodAttributes (391ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 2.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 217 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6281 unused Assets / (5.3 MB). Loaded Objects now: 6967.
+Memory consumption went from 164.1 MB to 158.7 MB.
+Total: 14.015900 ms (FindLiveObjects: 1.081200 ms CreateObjectMapping: 1.195300 ms MarkObjects: 6.967500 ms  DeleteObjects: 4.768300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 15168.642966 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust
+  artifactKey: Guid(f9acbe08c8cd01145a7163fab6530c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust using Guid(f9acbe08c8cd01145a7163fab6530c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b512c6cb05697495bdd0376797136f6') in 0.0065835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.828376 seconds.
+  path: Assets/Scenes/Geri/Materials/dust
+  artifactKey: Guid(f7970f50fa60367409974e56e15b4ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/dust using Guid(f7970f50fa60367409974e56e15b4ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef2ae79e6d4e1e423d0432e0ad1266c0') in 0.0005201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.504667 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/2
+  artifactKey: Guid(16002be8495f69f42b24a5b9c7990499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/2 using Guid(16002be8495f69f42b24a5b9c7990499) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0a69c60ecd55111b63cf8edef297bf7') in 0.0008231 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.084181 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/2/-0SandRock2.tga
+  artifactKey: Guid(d30e00628fd972843a8a2928ecd9a6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/2/-0SandRock2.tga using Guid(d30e00628fd972843a8a2928ecd9a6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b909f5738c67c56954b20d2655c4789') in 0.081056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.918764 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/SandCrtLrgSd.tga
+  artifactKey: Guid(ec31abe5c20351844b9a98224ab8ec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/SandCrtLrgSd.tga using Guid(ec31abe5c20351844b9a98224ab8ec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '140239fda7a33fdce2dc84a4061814b1') in 0.0204668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.445516 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/MltryCrteSd.tga
+  artifactKey: Guid(1d7459168aa2f8f41bee153c00af5f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/MltryCrteSd.tga using Guid(1d7459168aa2f8f41bee153c00af5f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b38e3c370557bc5e703685038a1d7880') in 0.0190058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.853159 seconds.
+  path: Assets/Scenes/Geri/Materials/keszmaterial
+  artifactKey: Guid(52b9463dcaa27b04aaa0bcd936d1455e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/keszmaterial using Guid(52b9463dcaa27b04aaa0bcd936d1455e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a72a085825b9e25ee0fce9343ebb6c1') in 0.0007422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.206326 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/-0csSandWall.tga
+  artifactKey: Guid(8647e6dd3e8e65347a360a66bc99b805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/-0csSandWall.tga using Guid(8647e6dd3e8e65347a360a66bc99b805) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e51bbad7b4bcba283418ffa4512edeac') in 0.0387198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.486626 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/-1csSandWall.tga
+  artifactKey: Guid(e93eca5e3a340d2429fa242c195040d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/-1csSandWall.tga using Guid(e93eca5e3a340d2429fa242c195040d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '726f514c2e0810787c98635c57bc210d') in 0.0194598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.374023 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/-0Sand.tga
+  artifactKey: Guid(8ba22508c5a32f4438de7d627961c338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/-0Sand.tga using Guid(8ba22508c5a32f4438de7d627961c338) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62beb6e818e559488045ea55d574c04f') in 0.0203883 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.695162 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/SandCrtSmTp.tga
+  artifactKey: Guid(7f56bbb113bf45c4ea365fbe10b6f37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/SandCrtSmTp.tga using Guid(7f56bbb113bf45c4ea365fbe10b6f37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43c55a1a0a60d155d2e5842beb384135') in 0.0200505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3457.198464 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/SandWllWndw3.tga
+  artifactKey: Guid(53bd97d42519eba498ca0164fa18f1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/SandWllWndw3.tga using Guid(53bd97d42519eba498ca0164fa18f1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'baa919d7610bf2d1d662e7e72df62001') in 0.0202614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.076299 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/SandCrtSmSd.tga
+  artifactKey: Guid(6fb27a85c196d1841ba9d9c848c03a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/SandCrtSmSd.tga using Guid(6fb27a85c196d1841ba9d9c848c03a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1bbc870a6a35c1283ed7d17fcbc7b44e') in 0.0198655 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.713599 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/SandCrtLrgTp.tga
+  artifactKey: Guid(aea7db8baa088f34abb0fd306ae92f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/SandCrtLrgTp.tga using Guid(aea7db8baa088f34abb0fd306ae92f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a14defe09180c165af5fc7f08270c66c') in 0.0229778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.876380 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/SandCCrete.tga
+  artifactKey: Guid(3e423a96ea3a1834f94504021602045c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/SandCCrete.tga using Guid(3e423a96ea3a1834f94504021602045c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c906685a98a86f3f78b1e774df9cc45') in 0.0220355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1392.644761 seconds.
+  path: Assets/Scenes/Geri/Materials/de_dust/-3Sand.tga
+  artifactKey: Guid(af2b042cc33af16438da48e4aeafc233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Geri/Materials/de_dust/-3Sand.tga using Guid(af2b042cc33af16438da48e4aeafc233) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e752a8122cdda07d0adcacfe9b566d50') in 0.0218096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
